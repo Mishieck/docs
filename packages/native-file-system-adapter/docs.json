@@ -1,0 +1,6 @@
+{
+  "name": "native-file-system-adapter",
+  "description": "File system, based on the spec reference implementation",
+  "version": "3.0.1",
+  "online": "https://github.com/jimmywarting/native-file-system-adapter"
+}

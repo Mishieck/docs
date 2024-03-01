@@ -1,0 +1,6 @@
+{
+  "name": "idb-keyval",
+  "version": "6.2.1",
+  "description": "A super-simple-small promise-based keyval store implemented with IndexedDB",
+  "online": "https://github.com/jakearchibald/idb-keyval"
+}
